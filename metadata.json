@@ -1,0 +1,5 @@
+{
+  "name": "AI Thumbnail Generator",
+  "description": "Upload an image and add text to generate eye-catching thumbnails in various styles. The app uses AI to place text, add emojis, and compose an attractive image, perfect for social media and videos.",
+  "requestFramePermissions": []
+}
